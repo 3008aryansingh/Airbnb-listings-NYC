@@ -33,3 +33,12 @@ Exploratory Data Analysis<br/>
 * Figma
 * Mapbox
 * Python (pandas, seaborn, matplotlib)
+
+  ### License
+
+This project is licensed under the MIT. See the `LICENSE` file for more details.
+
+### Contact
+
+For any inquiries or suggestions regarding the project, please contact singharyan3008@gmail.com/ +919860177421.
+
